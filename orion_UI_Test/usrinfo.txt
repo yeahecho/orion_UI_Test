@@ -1,0 +1,2 @@
+uname=nbaitest1 pwd=qiang110
+uname=nbaitest1@gmail.com pwd=qiang1102

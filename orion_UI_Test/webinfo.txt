@@ -1,0 +1,6 @@
+url=https://nbai.io
+text_id=loginUserLog
+userid=userName
+pwdid=password
+loginid=m_login_signin_submit
+errorid=userName-error
